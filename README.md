@@ -1,1 +1,1 @@
-<h1>WORK IN PROGRESS</h1>
+<h1>Full Document on my <a href="https://reinerbalschun.github.io/Reiners-zweite-Gehirn/Projects/Manage-MQTT-server-and-visualization-as-container-stack" title="Manage MQTT server and visualization as container stack" target="_blank">Website</a>!</h1>
